@@ -1,7 +1,7 @@
 # House-price-predictions
 the dataset can be obtained from Kaggle.
-link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
-The link contains train set and test set 
+<br>link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
+<br>The link contains train set and test set 
 
 ## Goal
 We have to Predict house prices in Ames,Iowa using regression techniques. We have 80 independent features and 1 dependent feature SalePrice
